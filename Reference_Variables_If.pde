@@ -32,10 +32,11 @@ void draw() {
   fill(0,0,0);
   ellipse(circleX,220,10,10);
   
+textSize(24);
 fill(255,128,0);
   text("Ex",350 ,150);
  
-  textSize(24);
+  
   fill(204,0,204);
   text("Fed",310,150);
   
